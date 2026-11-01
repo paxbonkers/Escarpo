@@ -1,10 +1,12 @@
 # Escarpo – VCV Rack plugin
 
-Modules for [VCV Rack 2](https://vcvrack.com) by pax.bonkers.
+Modules for [VCV Rack 2](https://vcvrack.com) by [pax.bonkers](https://www.instagram.com/pax.bonkers/).
 
 ## Escarpo
 
-<img src="docs/images/Escarpo.png" alt="Escarpo module panel" width="200" align="right">
+<p align="center">
+  <img src="docs/images/Escarpo.png" alt="Escarpo module panel" width="220">
+</p>
 
 *Clock swing, drift & burst.*
 Named after Jean-Honoré Fragonard's painting *L'Escarpolette* (*The Happy Accidents of the Swing*, 1767).
@@ -72,6 +74,6 @@ c++ -std=c++11 -Isrc tests/test_swingcore.cpp -o build/test_swingcore && ./build
 
 ## License
 
-Source code: © pax.bonkers, licensed under the [GNU General Public License v3.0 or later](LICENSE).
+Source code: © [pax.bonkers](https://www.instagram.com/pax.bonkers/), licensed under the [GNU General Public License v3.0 or later](LICENSE).
 
 Knobs, jacks, screws and lights are drawn by VCV Rack's built-in Component Library (© VCV, CC BY-NC 4.0); their graphics are loaded from the Rack installation and are not part of this repository.

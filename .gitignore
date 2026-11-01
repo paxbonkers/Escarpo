@@ -1,0 +1,10 @@
+# Build output
+/build/
+/dist/
+/dep/
+plugin.dylib
+plugin.so
+plugin.dll
+
+# macOS
+.DS_Store

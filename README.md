@@ -1,4 +1,4 @@
-# pax.bonkers – VCV Rack plugin
+# Escarpo – VCV Rack plugin
 
 Modules for [VCV Rack 2](https://vcvrack.com) by pax.bonkers.
 

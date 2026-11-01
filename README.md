@@ -1,8 +1,10 @@
-# PaxBonkers – VCV Rack plugin
+# pax.bonkers – VCV Rack plugin
 
 Modules for [VCV Rack 2](https://vcvrack.com) by pax.bonkers.
 
 ## Escarpo
+
+<img src="docs/images/Escarpo.png" alt="Escarpo module panel" width="200" align="right">
 
 *Clock swing, drift & burst.*
 Named after Jean-Honoré Fragonard's painting *L'Escarpolette* (*The Happy Accidents of the Swing*, 1767).

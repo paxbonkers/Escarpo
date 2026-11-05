@@ -6,3 +6,4 @@ using namespace rack;
 extern Plugin* pluginInstance;
 
 extern Model* modelEscarpo;
+extern Model* modelLillebror;

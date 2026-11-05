@@ -1,15 +1,15 @@
 {
   "slug": "PaxBonkers",
   "name": "PaxBonkers",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "license": "GPL-3.0-or-later",
   "brand": "pax.bonkers",
   "author": "pax.bonkers",
   "authorEmail": "",
   "authorUrl": "https://github.com/paxbonkers",
-  "pluginUrl": "https://github.com/paxbonkers/Escarpo",
-  "manualUrl": "https://github.com/paxbonkers/Escarpo#escarpo",
-  "sourceUrl": "https://github.com/paxbonkers/Escarpo",
+  "pluginUrl": "https://github.com/paxbonkers/PaxBonkers",
+  "manualUrl": "https://github.com/paxbonkers/PaxBonkers#readme",
+  "sourceUrl": "https://github.com/paxbonkers/PaxBonkers",
   "donateUrl": "",
   "changelogUrl": "",
   "modules": [
@@ -19,6 +19,17 @@
       "description": "Clock swing, drift and burst. After Fragonard's The Happy Accidents of the Swing.",
       "tags": [
         "Clock modifier"
+      ],
+      "manualUrl": "https://github.com/paxbonkers/PaxBonkers#escarpo"
+    },
+    {
+      "slug": "Lillebror",
+      "name": "Lillebror",
+      "description": "Three drum voices with wave morph and accent-shaped timbre. The little brother of Grids.",
+      "manualUrl": "https://github.com/paxbonkers/PaxBonkers#lillebror",
+      "tags": [
+        "Drum",
+        "Synth voice"
       ]
     }
   ]

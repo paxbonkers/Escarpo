@@ -1,11 +1,11 @@
-# PaxBonkers – VCV Rack plugin
+# PaxBonkers – VCV Rack plugins
 
-Modules for [VCV Rack 2](https://vcvrack.com) by [pax.bonkers](https://www.instagram.com/pax.bonkers/).
+Modules for [VCV Rack 2](https://vcvrack.com) by [pax.bonkers](https://www.instagram.com/pax.bonkers/). All modules are open source and can be found in Rack under the brand *pax.bonkers*.
 
-| Module | |
-|---|---|
-| [Escarpo](#escarpo) | Clock swing, drift & burst · 8 HP |
-| [Lillebror](#lillebror) | Three drum voices, the little brother of Grids · 16 HP |
+| Module | Description | Size |
+|---|---|---|
+| [**Escarpo**](#escarpo) | Clock swing, drift & burst. Delays and ratchets clock pulses by a CV-modulatable fraction of the period. | 8 HP |
+| [**Lillebror**](#lillebror) | Three drum voices (kick, snare, hi-hat) with wave morph and accent-shaped timbre. The little brother of Grids. | 16 HP |
 
 ## Escarpo
 
@@ -155,13 +155,17 @@ With Grids this means accents shape the groove, not just the volume.
 
 ## Building
 
-Requires the [VCV Rack SDK](https://vcvrack.com/manual/PluginDevelopmentTutorial) 2.x.
+Requires the [VCV Rack SDK](https://vcvrack.com/manual/PluginDevelopmentTutorial) 2.x. Both modules are built into one plugin.
 
 ```sh
 export RACK_DIR=/path/to/Rack-SDK   # defaults to ../Rack-SDK
 make
 make install
 ```
+
+Restart Rack afterwards.
+
+Source layout: one `src/<Module>.cpp` per module, Rack-independent DSP in `src/dsp/`, panels in `res/`, tests in `tests/`.
 
 Unit tests (no Rack needed):
 

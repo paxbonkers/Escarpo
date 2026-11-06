@@ -213,7 +213,7 @@ With Grids this means accents shape the groove, not just the volume.
 ## Escarpo
 
 <p align="center">
-  <img src="docs/images/Escarpo.png" alt="Escarpo module panel" width="220">
+  <img src="docs/images/Escarpo.png" alt="Escarpo module panel" width="145">
 </p>
 
 *Clock swing, drift & burst.*

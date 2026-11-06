@@ -11,7 +11,7 @@ Modules for [VCV Rack 2](https://vcvrack.com) by [pax.bonkers](https://www.insta
 ## Zenon
 
 <p align="center">
-  <img src="docs/images/Zenon.png" alt="Zenon module panel" width="640">
+  <img src="docs/images/Zenon-panel.png" alt="Zenon module panel" width="640">
 </p>
 
 *Polymetric percussion.*

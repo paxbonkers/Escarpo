@@ -7,9 +7,9 @@
   "author": "pax.bonkers",
   "authorEmail": "",
   "authorUrl": "https://github.com/paxbonkers",
-  "pluginUrl": "https://github.com/paxbonkers/PaxBonkers",
-  "manualUrl": "https://github.com/paxbonkers/PaxBonkers#readme",
-  "sourceUrl": "https://github.com/paxbonkers/PaxBonkers",
+  "pluginUrl": "https://github.com/paxbonkers/PaxBonkersVCV",
+  "manualUrl": "https://github.com/paxbonkers/PaxBonkersVCV#readme",
+  "sourceUrl": "https://github.com/paxbonkers/PaxBonkersVCV",
   "donateUrl": "",
   "changelogUrl": "",
   "modules": [
@@ -20,13 +20,13 @@
       "tags": [
         "Clock modifier"
       ],
-      "manualUrl": "https://github.com/paxbonkers/PaxBonkers#escarpo"
+      "manualUrl": "https://github.com/paxbonkers/PaxBonkersVCV#escarpo"
     },
     {
       "slug": "Lillebror",
       "name": "Lillebror",
       "description": "Three drum voices with wave morph and accent-shaped timbre. The little brother of Grids.",
-      "manualUrl": "https://github.com/paxbonkers/PaxBonkers#lillebror",
+      "manualUrl": "https://github.com/paxbonkers/PaxBonkersVCV#lillebror",
       "tags": [
         "Drum",
         "Synth voice"
@@ -36,7 +36,7 @@
       "slug": "Zenon",
       "name": "Zenon",
       "description": "Polymetric percussion: two 8-step tracks with their own length and destination drive a two-oscillator percussion voice. After Zeno's paradox of Achilles and the tortoise.",
-      "manualUrl": "https://github.com/paxbonkers/PaxBonkers#zenon",
+      "manualUrl": "https://github.com/paxbonkers/PaxBonkersVCV#zenon",
       "tags": [
         "Drum",
         "Sequencer",

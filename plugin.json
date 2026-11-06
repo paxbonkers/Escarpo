@@ -1,7 +1,7 @@
 {
   "slug": "PaxBonkers",
   "name": "PaxBonkers",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "license": "GPL-3.0-or-later",
   "brand": "pax.bonkers",
   "author": "pax.bonkers",
@@ -29,6 +29,17 @@
       "manualUrl": "https://github.com/paxbonkers/PaxBonkers#lillebror",
       "tags": [
         "Drum",
+        "Synth voice"
+      ]
+    },
+    {
+      "slug": "Zenon",
+      "name": "Zenon",
+      "description": "Polymetric percussion: two 8-step tracks with their own length and destination drive a two-oscillator percussion voice. After Zeno's paradox of Achilles and the tortoise.",
+      "manualUrl": "https://github.com/paxbonkers/PaxBonkers#zenon",
+      "tags": [
+        "Drum",
+        "Sequencer",
         "Synth voice"
       ]
     }

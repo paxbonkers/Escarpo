@@ -6,4 +6,5 @@ void init(Plugin* p) {
 	pluginInstance = p;
 	p->addModel(modelEscarpo);
 	p->addModel(modelLillebror);
+	p->addModel(modelZenon);
 }
